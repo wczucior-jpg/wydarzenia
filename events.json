@@ -1,148 +1,83 @@
 [
-  {
-    "date": "18. 04.",
-    "artists": "Tabula Rasa / Źrenice / The Dead Hearts / Ikahari",
-    "venue": "Graffiti",
-    "city": "Lublin"
-  },
-  {
-    "date": "25. 04.",
-    "artists": "Johnny Trzy Palce / Ravensteel / Harvest",
-    "venue": "Chicago",
-    "city": "Kielce"
-  },
-  {
-    "date": "24. 04.",
-    "artists": "Plektani / Smurød / Hung / Fake Pleasure",
-    "venue": "ADA Puławska",
-    "city": "Warszawa"
-  }
+  {"date":"08.04.","artists":"Gypsy and the Acid Queen","venue":"w_sercu","city":"Poznań"},
+  {"date":"08.04.","artists":"Hexvessel / Aluk Todolo / BaaRra","venue":"Zaścianek","city":"Kraków"},
+  {"date":"08.04.","artists":"Miserere Luminis / Détresse / Lament","venue":"Liverpool","city":"Wrocław"},
+  {"date":"08.04.","artists":"Panopticon / Sunken","venue":"2progi","city":"Poznań"},
+  {"date":"08.04.","artists":"Soyuz","venue":"MONK","city":"Gdańsk"},
+  {"date":"09.04.","artists":"Hańba! / Hioba Dylana","venue":"Mechanik","city":"Warszawa"},
+  {"date":"09.04.","artists":"Morpholith / Moonstone / Maruntuka","venue":"Chmury","city":"Warszawa"},
+  {"date":"10.04.","artists":"Dule Tree / Męty / Czernina","venue":"Klub Szalonych","city":"Wrocław"},
+  {"date":"10.04.","artists":"Hańba! / Hioba Dylana","venue":"Hydrozagadka","city":"Warszawa"},
+  {"date":"10.04.","artists":"Bombat Belus / Psycho Beets / Nubes Negras","venue":"barBAZAAR","city":"Warszawa"},
+  {"date":"10.04.","artists":"Jaskółki / Rykoszet / Nihil Novi","venue":"Syrena","city":"Warszawa"},
+  {"date":"10.04.","artists":"Eric Havoc / Life Scars / Strewments / jajofrvr","venue":"ADA Puławska","city":"Warszawa"},
+  {"date":"10.04.","artists":"Towot / Brzeszczot / Incydent","venue":"Garage Pub","city":"Kraków"},
+  {"date":"10.04.","artists":"Hage-o / Balkon / Tytus Gaming","venue":"Uczulenie","city":"Wrocław"},
+  {"date":"10.04.","artists":"Psychoanaliza / Rabbit Hole / Asia Asia","venue":"Alive","city":"Wrocław"},
+  {"date":"10.04.","artists":"Backbite / Sorrowhead / Zgnilizna","venue":"Rozbrat","city":"Poznań"},
+  {"date":"10.04.","artists":"Olbrzym i Kurdupel","venue":"Inaczej niż w Raju","city":"Gdańsk"},
+  {"date":"10.04.","artists":"Bajzel / Pierszy Ras","venue":"Storrady","city":"Szczecin"},
+  {"date":"10.04.","artists":"Sznur / Las Trumien / Treny / Elektrytuał","venue":"Wyjście Awaryjne","city":"Opole"},
+  {"date":"10.04.","artists":"The Black Veils / nAH!","venue":"FORT XXII","city":"Przemyśl"},
+  {"date":"10.04.","artists":"Dezerter / Cop Off","venue":"Ośrodek Kultury","city":"Środa Wielkopolska"},
+  {"date":"11.04.","artists":"Dezerter / Baraka Face Junta","venue":"Browar Gościniec","city":"Chojnice"},
+  {"date":"11.04.","artists":"ECHOBIRDS / KISU MIN / Steve Martins","venue":"Pub Stolarnia","city":"Bielsko-Biała"},
+  {"date":"11.04.","artists":"Las Wariatów 2: Sznur / Las Trumien / Treny / Elektrytuał","venue":"Krzywy Gryf","city":"Szczecin"},
+  {"date":"11.04.","artists":"Psychoanaliza / Rabbit Hole / Fabryka Bezbronnych","venue":"Baza","city":"Kraków"},
+  {"date":"11.04.","artists":"Highfly / Smokes of Krakatau / Dense Haze","venue":"Cyrk Pod Zielonym Xiężycem","city":"Łódź"},
+  {"date":"11.04.","artists":"Morpholith / Moonstone / Tortuga","venue":"Pod Minogą","city":"Poznań"},
+  {"date":"11.04.","artists":"Hage-o / Balkon / Tytus Gaming","venue":"Pan Gar","city":"Poznań"},
+  {"date":"11.04.","artists":"Sonic Wasteland / Potwory i Ludzie","venue":"Dzielnicowy Dom Kultury Węglin","city":"Lublin"},
+  {"date":"11.04.","artists":"Tenemik","venue":"Mózg","city":"Bydgoszcz"},
+  {"date":"11.04.","artists":"We Watch Clouds / Circle End / Torchlight / Calamity","venue":"Muzyczna Meta","city":"Częstochowa"},
+  {"date":"11.04.","artists":"Bunkier / Gestas / Rauss / Animozja","venue":"Wyjście Awaryjne","city":"Opole"},
+  {"date":"12.04.","artists":"Sznur / Las Trumien / Treny / Elektrytuał","venue":"Doki 4","city":"Gdańsk"},
+  {"date":"12.04.","artists":"Anatol / j.inhale","venue":"Turnus Cafe","city":"Warszawa"},
+  {"date":"12.04.","artists":"Highfly / Smokes of Krakatau / Dense Haze","venue":"2KOŁA","city":"Warszawa"},
+  {"date":"12.04.","artists":"Morpholith / Moonstone / Acidsloth","venue":"Gwarek","city":"Kraków"},
+  {"date":"15.04.","artists":"Royber Trio","venue":"Pardon, To Tu","city":"Warszawa"},
+  {"date":"17.04.","artists":"Dr. Fleishman / AM / Zgon Nestora","venue":"siedziba Radia Zamek Nadaje","city":"Jawor"},
+  {"date":"18.04.","artists":"Apteka / Johnny Trzy Palce","venue":"Faust / Pub Korba","city":"Katowice"},
+  {"date":"18.04.","artists":"The Bill / Meluzyna","venue":"ŁOK","city":"Łowicz"},
+  {"date":"18.04.","artists":"Tabula Rasa / Źrenice / The Dead Hearts / Ikahari","venue":"Graffiti","city":"Lublin"},
+  {"date":"20.04.","artists":"Den der Hale / Poprawczak","venue":"2KOŁA Pub Motocyklowy","city":"Warszawa"},
+  {"date":"20.04.","artists":"Kim Gordon","venue":"CK A2","city":"Wrocław"},
+  {"date":"21.04.","artists":"Kim Gordon","venue":"Progresja","city":"Warszawa"},
+  {"date":"23.04.","artists":"RIP SHIP","venue":"Arta Cafe Kalambur","city":"Wrocław"},
+  {"date":"23.04.","artists":"Tenemik","venue":"DZiK","city":"Warszawa"},
+  {"date":"24.04.","artists":"Johnny Trzy Palce","venue":"Poznań","city":"Poznań"},
+  {"date":"24.04.","artists":"Zespół Sztylety / Allarme / Bujaturla","venue":"Klub Mechanik","city":"Warszawa"},
+  {"date":"24.04.","artists":"Plektani / Smurød / Hung / Fake Pleasure","venue":"ADA Puławska","city":"Warszawa"},
+  {"date":"24-25.04.","artists":"Tasiemka / Awangarda / D-formacja / Manhünt / Rewers / angel egg / Szacunek / Stowarzyszenie Przyjaciół Kota Johnnego","venue":"Syrena","city":"Warszawa"},
+  {"date":"24-25.04.","artists":"DIY Hardcore Punk Fest vol. 18: Hibernation / Ayucaba / Annapura / Pisuar / Chaotic End / Uncurbed / Faze / Downwinder / NÃO / Dishönor / ΠΛΕΚΤΑΝΗ / Aargh Fuck Kill / The Social / Klątwa","venue":"Podwórko.art","city":"Gdynia"},
+  {"date":"25.04.","artists":"Faul Techniczny / Slavenkust / Piktogram / Rottweiler / Castet / Kabát Revival PL / Fake Pleasure","venue":"Przychodnia Skłot","city":"Warszawa"},
+  {"date":"25.04.","artists":"Zespół Sztylety / Allarme / Wrath Opiate","venue":"Klub Muzyczny Kosmos","city":"Lublin"},
+  {"date":"25.04.","artists":"JK Flesh","venue":"Niebo","city":"Warszawa"},
+  {"date":"30.04.","artists":"Noc Walpurgii: Black Cat Matches / Loora / Runaway Devils / Splin / Dead Tahiti / Eva Leblanc / Nothing Works / Siksa / Hekate / Cosey Mueller","venue":"VooDoo Club","city":"Warszawa"},
+  {"date":"01-02.05.","artists":"Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja","venue":"Wieża Ciśnień","city":"Legnica"},
+  {"date":"08.05.","artists":"Zespół Sztylety / Allarme / Little Man, Figurine","venue":"Warsztat","city":"Kraków"},
+  {"date":"08.05.","artists":"fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio","venue":"Klub Mechanik","city":"Warszawa"},
+  {"date":"09.05.","artists":"Zespół Sztylety / Allarme / Seks w Czasach Wojny","venue":"Centrum Reanimacji Kultury","city":"Wrocław"},
+  {"date":"09.05.","artists":"Głośna Wiosna","venue":"WL4","city":"Gdańsk"},
+  {"date":"10.05.","artists":"Acid Mothers Temple / Acidsitter","venue":"Klub Mechanik","city":"Warszawa"},
+  {"date":"12.05.","artists":"Public Image Ltd.","venue":"B90","city":"Gdańsk"},
+  {"date":"16.05.","artists":"Dälek","venue":"Klub Mechanik","city":"Warszawa"},
+  {"date":"22.05.","artists":"Zespół Sztylety / Allarme / Bazgrołki","venue":"Klub Desdemona","city":"Gdynia"},
+  {"date":"22.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"Muzyczna Meta","city":"Częstochowa"},
+  {"date":"22-24.05.","artists":"12 Urodziny Ady","venue":"ADA Puławska","city":"Warszawa"},
+  {"date":"23.05.","artists":"Zespół Sztylety / Allarme / Alarm","venue":"Wakepark","city":"Szczecin"},
+  {"date":"23.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"2Koła","city":"Warszawa"},
+  {"date":"29.05.","artists":"Baraka Face Junta / KMKZ / Titanic Sea Moon","venue":"Desdemona","city":"Gdynia"},
+  {"date":"29-30.05.","artists":"Defibrylator vol. 11: corpselight / Olion / Suffer Anxiety Disorder / Feine Trinkers Bei Pinkels Daheim (Niemcy) / Data Corrupter / Prurit (Belgia) / Distorting a Woodpecker (USA) / The Eternal Returns / Chris (Czechy) / Burden / Silver Dove (UK) / DzuszanDead / Woods Matters (USA) / SAM / Martin Režný (Czechy)","venue":"Ośrodek Lido","city":"Przygodzice"},
+  {"date":"12-14.06.","artists":"Fląder Festiwal","venue":"Brzeźno","city":"Gdańsk"},
+  {"date":"20.06.","artists":"Johnny Trzy Palce","venue":"Jelcz-Starachowice","city":"Jelcz-Starachowice"},
+  {"date":"26-28.06.","artists":"Festiwal „Nie jest źle”","venue":"Wołów","city":"Wołów"},
+  {"date":"30.04.","artists":"AcidSitter / Neon Mud / Yaak","venue":"Graffiti","city":"Lublin"},
+  {"date":"08.05.","artists":"Dżuma / Twój, Dawid","venue":"Graffiti","city":"Lublin"},
+  {"date":"13.05.","artists":"Ohyda / Träume / User","venue":"Syrena","city":"Warszawa"},
+  {"date":"06.06.","artists":"Steröid / Siyahkal / Grotto / DHK / Syfon","venue":"ADA Puławska","city":"Warszawa"},
+  {"date":"02-05.07.","artists":"Wschód Kultury: Inne Brzmienia","venue":"Lublin","city":"Lublin"},
+  {"date":"10-12.07.","artists":"Red Smoke Festival: Elder / Slomosa / Poison Ruin / Siena Root / Entropia / Acid Mammoth / Travo / Samavayo / Red Scalp / Kombynat Robotron / Margarita Witch Club / Cv Vision / Arcane Allies / Madmess / Hollow Ship / Doom Gong / Hingus Fringus","venue":"Pleszew","city":"Pleszew"},
+  {"date":"16-19.07.","artists":"Spokój Festiwal","venue":"Dąbrowa k/Stężycy","city":"Dąbrowa k/Stężycy"},
+  {"date":"17-18.07.","artists":"Róbmy Swoje: _ułła_/ Ozibut / little man, figurine / Semi Nomadic / 375 CEG / Wielki Las / [peru] / Power Trio / Złe Oko","venue":"Wysoka Strzyżowska","city":"Wysoka Strzyżowska"}
 ]
-
-
-
-
-08.04. – Gypsy and the Acid Queen – w_sercu – Poznań/
-08.04. – Hexvessel / Aluk Todolo / BaaRra – Zaścianek – Kraków/
-08.04. – Miserere Luminis / Détresse / Lament – Liverpool – Wrocław/
-08.04. – Panopticon / Sunken – 2progi – Poznań/
-08.04. – Soyuz – MONK – Gdańsk/
-09.04. – Hańba! / Hioba Dylana – Mechanik – Warszawa/
-09.04. – Morpholith / Moonstone / Maruntuka – Chmury – Warszawa/
-10.04. – Dule Tree / Męty / Czernina – Klub Szalonych – Wrocław/
-10.04. – Hańba! / Hioba Dylana – Hydrozagadka – Warszawa/
-10.04. – Bombat Belus / Psycho Beets / Nubes Negras – barBAZAAR – Warszawa/
-10.04. – Jaskółki / Rykoszet / Nihil Novi – Syrena – Warszawa/
-10.04. – Eric Havoc / Life Scars / Strewments / jajofrvr – ADA Puławska – Warszawa/
-10.04. – Towot / Brzeszczot / Incydent – Garage Pub – Kraków/
-10.04. – Hage-o / Balkon / Tytus Gaming – Uczulenie – Wrocław/
-10.04. – Psychoanaliza / Rabbit Hole / Asia Asia – Alive – Wrocław/
-10.04. – Backbite / Sorrowhead / Zgnilizna – Rozbrat – Poznań/
-10.04. – Olbrzym i Kurdupel – Inaczej niż w Raju – Gdańsk/
-10.04. – Bajzel / Pierszy Ras – Storrady – Szczecin/
-10.04. – Sznur / Las Trumien / Treny / Elektrytuał – Wyjście Awaryjne – Opole/
-10.04. – The Black Veils / nAH! – FORT XXII – Przemyśl/
-10.04. – Dezerter / Cop Off – Ośrodek Kultury – Środa Wielkopolska/
-11.04. – Dezerter / Baraka Face Junta – Browar Gościniec – Chojnice/
-11.04. – ECHOBIRDS / KISU MIN / Steve Martins – Pub Stolarnia – Bielsko-Biała/
-11.04. – Las Wariatów 2: Sznur / Las Trumien / Treny / Elektrytuał – Krzywy Gryf – Szczecin/
-11.04. – Psychoanaliza / Rabbit Hole / Fabryka Bezbronnych – Baza – Kraków/
-11.04. – Highfly / Smokes of Krakatau / Dense Haze – Cyrk Pod Zielonym Xiężycem – Łódź/
-11.04. – Morpholith / Moonstone / Tortuga – Pod Minogą – Poznań/
-11.04. – Hage-o / Balkon / Tytus Gaming – Pan Gar – Poznań/
-11.04. – Sonic Wasteland / Potwory i Ludzie – Dzielnicowy Dom Kultury Węglin – Lublin/
-11.04. – Tenemik – Mózg – Bydgoszcz/
-11.04. – We Watch Clouds / Circle End / Torchlight / Calamity – Muzyczna Meta – Częstochowa/
-11.04. – Bunkier / Gestas / Rauss / Animozja – Wyjście Awaryjne – Opole/
-12.04. – Sznur / Las Trumien / Treny / Elektrytuał – Doki 4 – Gdańsk/
-12.04. – Anatol / j.inhale – Turnus Cafe – Warszawa/
-12.04. – Highfly / Smokes of Krakatau / Dense Haze – 2KOŁA – Warszawa/
-12.04. – Morpholith / Moonstone / Acidsloth – Gwarek – Kraków/
-
-15. 04. – Royber Trio – Pardon, To Tu – Warszawa/
-
-17. 04. – Dr. Fleishman / AM / Zgon Nestora – siedziba Radia Zamek Nadaje – Jawor/
-
-18. 04. – Apteka / Johnny Trzy Palce – Faust / Pub Korba – Katowice/
-
-18.04. – The Bill / Meluzyna – ŁOK – Łowicz/
-
-20.04. – Den der Hale / Poprawczak – 2KOŁA Pub Motocyklowy – Warszawa/
-
-20.04. – Kim Gordon – CK A2 – Wrocław/
-
-21.04. – Kim Gordon – Progresja – Warszawa/
-
-23.04. – RIP SHIP – Arta Cafe Kalambur – Wrocław/
-
-23.04. – Tenemik – DZiK – Warszawa/
-
-24.04. – Johnny Trzy Palce – Poznań/
-
-25. 04. – Johnny Trzy Palce / Ravensteel / Harvest – Chicago – Kielce/
-
-24. 04. – Zespół Sztylety / Allarme / Bujaturla – Klub Mechanik – Warszawa/
-
-24. 04. – Plektani / Smurød / Hung / Fake Pleasure – ADA Puławska – Warszawa/
-
-24 – 25.04. – Tasiemka / Awangarda / D-formacja / Manhünt / Rewers / angel egg / Szacunek / Stowarzyszenie Przyjaciół Kota Johnnego – Syrena – Warszawa/
-
-24. 04.–25. 04. – DIY Hardcore Punk Fest vol. 18: Hibernation / Ayucaba / Annapura / Pisuar / Chaotic End / Uncurbed / Faze / Downwinder / NÃO / Dishönor / ΠΛΕΚΤΑΝΗ / Aargh Fuck Kill / The Social / Klątwa – Podwórko.art – Gdynia/
-
-25. 04. – Faul Techniczny / Slavenkust / Piktogram / Rottweiler / Castet / Kabát Revival PL / Fake Pleasure – Przychodnia Skłot – Warszawa/
-
-25. 04. – Johnny Trzy Palce / Ravensteel / Harvest – Chicago – Kielce/
-
-25. 04. – Zespół Sztylety / Allarme / Wrath Opiate – Klub Muzyczny Kosmos – Lublin/
-
-25. 04. – JK Flesh – Niebo – Warszawa/
-30. 04. – Noc Walpurgii – Black Cat Matches / Loora / Runaway Devils / Splin / Dead Tahiti / Eva Leblanc / Nothing Works / Siksa / Hekate / Cosey Mueller – VooDoo Club – Warszawa/
-
-
-
-01.-02. 05. – Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja – Wieża Ciśnień – Legnica/
-
-08. 05. – Zespół Sztylety / Allarme / Little Man, Figurine – Warsztat – Kraków/
-
-08. 05. – fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio – Klub Mechanik – Warszawa/
-
-09. 05. – Zespół Sztylety / Allarme / Seks w Czasach Wojny – Centrum Reanimacji Kultury – Wrocław/
-
-09. 05. – Głośna Wiosna – WL4 – Gdańsk/
-
-10. 05. – Acid Mothers Temple / Acidsitter – Klub Mechanik – Warszawa/
-
-12. 05. – Public Image Ltd. – B90 – Gdańsk/
-
-16. 05. – Dälek – Klub Mechanik – Warszawa/
-
-22. 05. – Zespół Sztylety / Allarme / Bazgrołki – Klub Desdemona – Gdynia/
-
-22. 05. – Johnny Trzy Palce / Bombat Belus / Wödar – Muzyczna Meta – Częstochowa/
-
-22 – 24.05. – 12 Urodziny Ady – ADA Puławska – Warszawa/
-
-23. 05. – Zespół Sztylety / Allarme / Alarm – Wakepark – Szczecin/
-
-23. 05. – Johnny Trzy Palce / Bombat Belus / Wödar – 2Koła – Warszawa/
-
-29. 05. – Baraka Face Junta / KMKZ / Titanic Sea Moon – Desdemona – Gdynia/
-
-29 – 30. 05. – Defibrylator vol. 11: corpselight / Olion / Suffer Anxiety Disorder / Feine Trinkers Bei Pinkels Daheim (Niemcy) / Data Corrupter / Prurit (Belgia) / Distorting a Woodpecker (USA) / The Eternal Returns / Chris (Czechy) / Burden / Silver Dove (UK) / DzuszanDead / Woods Matters (USA) / SAM / Martin Režný (Czechy) – Ośrodek Lido – Przygodzice/
-
-
-12 – 14. 06. – Fląder Festiwal – Brzeźno – Gdańsk/
-
-20. 06. – Johnny Trzy Palce – Jelcz-Starachowice/
-
-26 – 28. 06. – Festiwal „Nie jest źle” – Wołów/
-
-
-
-02 – 05. 07. – Wschód Kultury: Inne Brzmienia – Lublin – Lublin/
-
-10 – 12. 07. – Red Smoke Festival: Elder / Slomosa / Poison Ruin / Siena Root / Entropia / Acid Mammoth / Travo / Samavayo / Red Scalp / Kombynat Robotron / Margarita Witch Club / Cv Vision / Arcane Allies / Madmess / Hollow Ship / Doom Gong / Hingus Fringus – Pleszew/
-
-16 – 19.07. – Spokój Festiwal – Dąbrowa k/Stężycy/
-
-17 – 18. 07. – Róbmy Swoje: _ułła_/ Ozibut / little man, figurine / Semi Nomadic / 375 CEG / Wielki Las / [peru] / Power Trio / Złe Oko – Wysoka Strzyżowska/
