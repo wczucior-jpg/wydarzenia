@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <style>
+    body{
+      font-family: Arial, sans-serif;
+      margin:0;
+      padding:0;
+      background:transparent;
+      color:#000;
+      line-height:1.4;
+    }
+    a{color:#000; text-decoration:underline;}
+  </style>
+</head>
+<body>
+
+<div>▽ MAJ ▷ ▷ ▷ ▷</div>
+
+<div>01.-02.05. – <a href="https://mobilizon.pl/events/5cb004bb-ed0a-4099-9b5f-fb1e25fa3dee">Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja</a> – Wieża Ciśnień – Legnica</div>
+<div>02.05. – BRÜD / Pogarda / Kultura Wieku Atomowego – Przychodnia – Warszawa</div>
+<div>02.05. – Bazgrołki / Black Mynah / Kapu Kai – Dragon Social Club – Poznań</div>
+<div>02.05. – Faustina Calavera – Nietota – Wrocław</div>
+
+<div>07.05. – Dratewka / Dreamless Night – PraCoVnia Art-Club – Warszawa</div>
+<div>07.05. – Bazgrołki / Black Mynah – Kalambur – Wrocław</div>
+
+<div>08.05. – Zespół Sztylety / Allarme / Little Man, Figurine – Warsztat – Kraków</div>
+<div>08.05. – Ankh – Nietota – Wrocław</div>
+<div>08.05. – fERMENTACYJNE jĄDRO kONDENSACJI II – Klub Mechanik – Warszawa</div>
+<div>08.05. – Bazgrołki / Black Mynah – Nowa Forma – Wołów</div>
+<div>08.05. – Dżuma / Twój, Dawid – Graffiti – Lublin</div>
+
+<div>09.05. – Zbeer / Udrożnić Pisuar! – PraCoVnia Art-Club – Warszawa</div>
+<div>09.05. – Zespół Sztylety / Allarme / Seks w Czasach Wojny – Centrum Reanimacji Kultury – Wrocław</div>
+<div>09.05. – Głośna Wiosna – WL4 – Gdańsk</div>
+
+<div>10.05. – Gnod – Las – Poznań</div>
+<div>10.05. – Acid Mothers Temple / Acidsitter – Klub Mechanik – Warszawa</div>
+
+<div>12.05. – Public Image Ltd. – B90 – Gdańsk</div>
+<div>13.05. – Ohyda / Träume / User – Syrena – Warszawa</div>
+
+<div>15.05. – Dälek – Las – Poznań</div>
+
+<div>16.05. – angel egg / March Dove / ułła – PraCoVnia Art-Club – Warszawa</div>
+<div>16.05. – AM / dr. Fleischman / Chorobopop – Bielsko-Biała</div>
+<div>16.05. – Black Mynah / Bazgrołki – Kraków</div>
+<div>16.05. – Dälek – Klub Mechanik – Warszawa</div>
+
+<div>17.05. – Hotel Breslau / Teatr Ekstrawersja – Nietota – Wrocław</div>
+
+<div>22.05. – Zespół Sztylety / Allarme / Bazgrołki – Gdynia</div>
+<div>22.05. – Johnny Trzy Palce / Bombat Belus / Wödar – Częstochowa</div>
+<div>22-24.05. – 12 Urodziny Ady – Warszawa</div>
+
+<div>23.05. – Zespół Sztylety / Allarme / Alarm – Szczecin</div>
+<div>23.05. – Johnny Trzy Palce / Bombat Belus / Wödar – Warszawa</div>
+
+<div>28.05. – 0bi3kt – Wrocław</div>
+
+<div>29.05. – Baraka Face Junta / KMKZ / Titanic Sea Moon – Gdynia</div>
+<div>29-30.05. – Defibrylator vol. 11 – Przygodzice</div>
+
+<div>30.05. – for example John / The Yacht Club / Ostatni Kontynent / Worms of Senses – Wrocław</div>
+<div>31.05. – Szymon Pimpon Gąsiorek – Gdańsk</div>
+
+<div>▽ CZERWIEC ▷ ▷ ▷ ▷</div>
+
+<div>02.06. – Big Brave / Cinder Well – Poznań</div>
+<div>05.06. – Cinnamon Gum – Wrocław</div>
+<div>06.06. – Wiśnia Bakajoko – Wrocław</div>
+<div>06.06. – Steröid / Siyahkal / Grotto / DHK / Syfon – Warszawa</div>
+<div>07.06. – Bazgrołki – Tczew</div>
+
+<div>12-14.06. – Fląder Festiwal – Gdańsk</div>
+<div>20.06. – Johnny Trzy Palce – Jelcz-Starachowice</div>
+<div>20-21.06. – Suburban Wave III – okolice Warszawy</div>
+<div>26-28.06. – Festiwal „Nie jest źle” – Wołów</div>
+
+<div>▽ LIPIEC ▷ ▷ ▷ ▷</div>
+
+<div>02-05.07. – Wschód Kultury: Inne Brzmienia – Lublin</div>
+<div>02-05.07. – Noc na Bagnie 2026 – Goniądz</div>
+<div>10-12.07. – Red Smoke Festival – Pleszew</div>
+<div>16-19.07. – Spokój Festiwal – Dąbrowa k/Stężycy</div>
+<div>17-18.07. – Róbmy Swoje – Wysoka Strzyżowska</div>
+
+<div>▽ WRZESIEŃ ▷ ▷ ▷ ▷</div>
+
+<div>05.09. – PARA WINO – Warszawa</div>
+<div>18.09. – Pleń / Tytus & The Left-Handers – Warszawa</div>
+<div>19.09. – tN collective – Warszawa</div>
+
+</body>
+</html>
