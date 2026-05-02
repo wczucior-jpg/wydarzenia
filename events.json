@@ -2,7 +2,7 @@
   {
     "group": "Maj 2026",
     "events": [
-      {"date":"01-02.05.","artists":"Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja","venue":"Wieża Ciśnień","city":"Legnica","link":""},
+      {"date":"01-02.05.","artists":"Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja","venue":"Wieża Ciśnień","city":"Legnica","link":"https://mobilizon.pl/events/5cb004bb-ed0a-4099-9b5f-fb1e25fa3dee"},
       {"date":"02.05.","artists":"BRÜD / Pogarda / Kultura Wieku Atomowego","venue":"Przychodnia","city":"Warszawa","link":""},
       {"date":"02.05.","artists":"Bazgrołki / Black Mynah / Kapu Kai","venue":"Dragon Social Club","city":"Poznań","link":""},
       {"date":"02.05.","artists":"Faustina Calavera","venue":"Nietota","city":"Wrocław","link":""},
@@ -12,7 +12,7 @@
 
       {"date":"08.05.","artists":"Zespół Sztylety / Allarme / Little Man, Figurine","venue":"Warsztat","city":"Kraków","link":""},
       {"date":"08.05.","artists":"Ankh","venue":"Nietota","city":"Wrocław","link":""},
-      {"date":"08.05.","artists":"fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio","venue":"Klub Mechanik","city":"Warszawa","link":""},
+      {"date":"08.05.","artists":"fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio","venue":"Klub Mechanik","city":"Warszawa","link":"https://mobilizon.pl/events/4ebf0130-f3b7-4792-8b51-ba174d3c8716"},
       {"date":"08.05.","artists":"Bazgrołki / Black Mynah","venue":"Nowa Forma","city":"Wołów","link":""},
       {"date":"08.05.","artists":"Dżuma / Twój, Dawid","venue":"Graffiti","city":"Lublin","link":""},
 
@@ -20,16 +20,16 @@
       {"date":"09.05.","artists":"Zespół Sztylety / Allarme / Seks w Czasach Wojny","venue":"Centrum Reanimacji Kultury","city":"Wrocław","link":""},
       {"date":"09.05.","artists":"Głośna Wiosna","venue":"WL4","city":"Gdańsk","link":""},
 
-      {"date":"10.05.","artists":"Gnod","venue":"Las","city":"Poznań","link":""},
+      {"date":"10.05.","artists":"Gnod","venue":"Las","city":"Poznań","link":"https://mobilizon.pl/events/0a0680ab-f871-412d-a303-f4173207f9e1"},
       {"date":"10.05.","artists":"Acid Mothers Temple / Acidsitter","venue":"Klub Mechanik","city":"Warszawa","link":""},
 
       {"date":"12.05.","artists":"Public Image Ltd.","venue":"B90","city":"Gdańsk","link":""},
       {"date":"13.05.","artists":"Ohyda / Träume / User","venue":"Syrena","city":"Warszawa","link":""},
 
-      {"date":"15.05.","artists":"Dälek","venue":"Las","city":"Poznań","link":""},
+      {"date":"15.05.","artists":"Dälek","venue":"Las","city":"Poznań","link":"https://mobilizon.pl/events/a9f834b5-7067-42bf-bb15-fa0d086c8085"},
 
       {"date":"16.05.","artists":"angel egg / March Dove / ułła","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-      {"date":"16.05.","artists":"AM / dr. Fleischman / Chorobopop","venue":"Przestrzeń Wolności","city":"Bielsko-Biała","link":""},
+      {"date":"16.05.","artists":"AM / dr. Fleischman / Chorobopop","venue":"Przestrzeń Wolności","city":"Bielsko-Biała","link":"https://mobilizon.pl/events/cf695396-8d0a-4a09-bd98-3929bbec0ad9"},
       {"date":"16.05.","artists":"Black Mynah / Bazgrołki","venue":"Klub RE","city":"Kraków","link":""},
       {"date":"16.05.","artists":"Dälek","venue":"Klub Mechanik","city":"Warszawa","link":""},
 
@@ -56,7 +56,7 @@
   {
     "group": "Czerwiec 2026",
     "events": [
-      {"date":"02.06.","artists":"Big Brave / Cinder Well","venue":"Las","city":"Poznań","link":""},
+      {"date":"02.06.","artists":"Big Brave / Cinder Well","venue":"Las","city":"Poznań","link":"https://mobilizon.pl/events/84cd9af6-9ed5-49b9-b773-17528587fcf5"},
       {"date":"05.06.","artists":"Cinnamon Gum","venue":"Nietota","city":"Wrocław","link":""},
       {"date":"06.06.","artists":"Wiśnia Bakajoko","venue":"Nietota","city":"Wrocław","link":""},
       {"date":"06.06.","artists":"Steröid / Siyahkal / Grotto / DHK / Syfon","venue":"ADA Puławska","city":"Warszawa","link":""},
