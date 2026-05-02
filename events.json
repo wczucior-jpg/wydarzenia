@@ -1,71 +1,91 @@
 [
-  {"date":"01-02.05.","artists":"Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja","venue":"Wieża Ciśnień","city":"Legnica","link":""},
-  {"date":"02.05.","artists":"BRÜD / Pogarda / Kultura Wieku Atomowego","venue":"Przychodnia","city":"Warszawa","link":""},
-  {"date":"02.05.","artists":"Bazgrołki / Black Mynah / Kapu Kai","venue":"Dragon Social Club","city":"Poznań","link":""},
-  {"date":"02.05.","artists":"Faustina Calavera","venue":"Nietota","city":"Wrocław","link":""},
+  {
+    "group": "Maj 2026",
+    "events": [
+      {"date":"01-02.05.","artists":"Festiwal pod Ciśnieniem: Defloracja / Franca / Dezerter / Bunkier / Izerbejdżan / Fate / Human Rights / Ye.Stem / Szumy i Trzaski / Amunicja","venue":"Wieża Ciśnień","city":"Legnica","link":""},
+      {"date":"02.05.","artists":"BRÜD / Pogarda / Kultura Wieku Atomowego","venue":"Przychodnia","city":"Warszawa","link":""},
+      {"date":"02.05.","artists":"Bazgrołki / Black Mynah / Kapu Kai","venue":"Dragon Social Club","city":"Poznań","link":""},
+      {"date":"02.05.","artists":"Faustina Calavera","venue":"Nietota","city":"Wrocław","link":""},
 
-  {"date":"07.05.","artists":"Dratewka / Dreamless Night","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-  {"date":"07.05.","artists":"Bazgrołki / Black Mynah","venue":"Kalambur","city":"Wrocław","link":""},
+      {"date":"07.05.","artists":"Dratewka / Dreamless Night","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
+      {"date":"07.05.","artists":"Bazgrołki / Black Mynah","venue":"Kalambur","city":"Wrocław","link":""},
 
-  {"date":"08.05.","artists":"Zespół Sztylety / Allarme / Little Man, Figurine","venue":"Warsztat","city":"Kraków","link":""},
-  {"date":"08.05.","artists":"Ankh","venue":"Nietota","city":"Wrocław","link":""},
-  {"date":"08.05.","artists":"fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio","venue":"Klub Mechanik","city":"Warszawa","link":""},
-  {"date":"08.05.","artists":"Bazgrołki / Black Mynah","venue":"Nowa Forma","city":"Wołów","link":""},
-  {"date":"08.05.","artists":"Dżuma / Twój, Dawid","venue":"Graffiti","city":"Lublin","link":""},
+      {"date":"08.05.","artists":"Zespół Sztylety / Allarme / Little Man, Figurine","venue":"Warsztat","city":"Kraków","link":""},
+      {"date":"08.05.","artists":"Ankh","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"08.05.","artists":"fERMENTACYJNE jĄDRO kONDENSACJI II: ✯ Popsysze ✯ doMofon ✯ Blue Hangover ✯ Głowa Diabła ✯ PAWAROTA Radio","venue":"Klub Mechanik","city":"Warszawa","link":""},
+      {"date":"08.05.","artists":"Bazgrołki / Black Mynah","venue":"Nowa Forma","city":"Wołów","link":""},
+      {"date":"08.05.","artists":"Dżuma / Twój, Dawid","venue":"Graffiti","city":"Lublin","link":""},
 
-  {"date":"09.05.","artists":"Zbeer / Udrożnić Pisuar!","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-  {"date":"09.05.","artists":"Zespół Sztylety / Allarme / Seks w Czasach Wojny","venue":"Centrum Reanimacji Kultury","city":"Wrocław","link":""},
-  {"date":"09.05.","artists":"Głośna Wiosna","venue":"WL4","city":"Gdańsk","link":""},
+      {"date":"09.05.","artists":"Zbeer / Udrożnić Pisuar!","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
+      {"date":"09.05.","artists":"Zespół Sztylety / Allarme / Seks w Czasach Wojny","venue":"Centrum Reanimacji Kultury","city":"Wrocław","link":""},
+      {"date":"09.05.","artists":"Głośna Wiosna","venue":"WL4","city":"Gdańsk","link":""},
 
-  {"date":"10.05.","artists":"Gnod","venue":"Las","city":"Poznań","link":""},
-  {"date":"10.05.","artists":"Acid Mothers Temple / Acidsitter","venue":"Klub Mechanik","city":"Warszawa","link":""},
+      {"date":"10.05.","artists":"Gnod","venue":"Las","city":"Poznań","link":""},
+      {"date":"10.05.","artists":"Acid Mothers Temple / Acidsitter","venue":"Klub Mechanik","city":"Warszawa","link":""},
 
-  {"date":"12.05.","artists":"Public Image Ltd.","venue":"B90","city":"Gdańsk","link":""},
-  {"date":"13.05.","artists":"Ohyda / Träume / User","venue":"Syrena","city":"Warszawa","link":""},
+      {"date":"12.05.","artists":"Public Image Ltd.","venue":"B90","city":"Gdańsk","link":""},
+      {"date":"13.05.","artists":"Ohyda / Träume / User","venue":"Syrena","city":"Warszawa","link":""},
 
-  {"date":"15.05.","artists":"Dälek","venue":"Las","city":"Poznań","link":""},
+      {"date":"15.05.","artists":"Dälek","venue":"Las","city":"Poznań","link":""},
 
-  {"date":"16.05.","artists":"angel egg / March Dove / ułła","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-  {"date":"16.05.","artists":"AM / dr. Fleischman / Chorobopop","venue":"Przestrzeń Wolności","city":"Bielsko-Biała","link":""},
-  {"date":"16.05.","artists":"Black Mynah / Bazgrołki","venue":"Klub RE","city":"Kraków","link":""},
-  {"date":"16.05.","artists":"Dälek","venue":"Klub Mechanik","city":"Warszawa","link":""},
+      {"date":"16.05.","artists":"angel egg / March Dove / ułła","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
+      {"date":"16.05.","artists":"AM / dr. Fleischman / Chorobopop","venue":"Przestrzeń Wolności","city":"Bielsko-Biała","link":""},
+      {"date":"16.05.","artists":"Black Mynah / Bazgrołki","venue":"Klub RE","city":"Kraków","link":""},
+      {"date":"16.05.","artists":"Dälek","venue":"Klub Mechanik","city":"Warszawa","link":""},
 
-  {"date":"17.05.","artists":"Hotel Breslau / Teatr Ekstrawersja","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"17.05.","artists":"Hotel Breslau / Teatr Ekstrawersja","venue":"Nietota","city":"Wrocław","link":""},
 
-  {"date":"22.05.","artists":"Zespół Sztylety / Allarme / Bazgrołki","venue":"Klub Desdemona","city":"Gdynia","link":""},
-  {"date":"22.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"Muzyczna Meta","city":"Częstochowa","link":""},
-  {"date":"22-24.05.","artists":"12 Urodziny Ady","venue":"ADA Puławska","city":"Warszawa","link":""},
+      {"date":"22.05.","artists":"Zespół Sztylety / Allarme / Bazgrołki","venue":"Klub Desdemona","city":"Gdynia","link":""},
+      {"date":"22.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"Muzyczna Meta","city":"Częstochowa","link":""},
+      {"date":"22-24.05.","artists":"12 Urodziny Ady","venue":"ADA Puławska","city":"Warszawa","link":""},
 
-  {"date":"23.05.","artists":"Zespół Sztylety / Allarme / Alarm","venue":"Wakepark","city":"Szczecin","link":""},
-  {"date":"23.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"2Koła","city":"Warszawa","link":""},
+      {"date":"23.05.","artists":"Zespół Sztylety / Allarme / Alarm","venue":"Wakepark","city":"Szczecin","link":""},
+      {"date":"23.05.","artists":"Johnny Trzy Palce / Bombat Belus / Wödar","venue":"2Koła","city":"Warszawa","link":""},
 
-  {"date":"28.05.","artists":"0bi3kt","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"28.05.","artists":"0bi3kt","venue":"Nietota","city":"Wrocław","link":""},
 
-  {"date":"29.05.","artists":"Baraka Face Junta / KMKZ / Titanic Sea Moon","venue":"Desdemona","city":"Gdynia","link":""},
-  {"date":"29-30.05.","artists":"Defibrylator vol. 11: corpselight / Olion / Suffer Anxiety Disorder / Feine Trinkers Bei Pinkels Daheim (Niemcy) / Data Corrupter / Prurit (Belgia) / Distorting a Woodpecker (USA) / The Eternal Returns / Chris (Czechy) / Burden / Silver Dove (UK) / DzuszanDead / Woods Matters (USA) / SAM / Martin Režný (Czechy)","venue":"Ośrodek Lido","city":"Przygodzice","link":""},
+      {"date":"29.05.","artists":"Baraka Face Junta / KMKZ / Titanic Sea Moon","venue":"Desdemona","city":"Gdynia","link":""},
+      {"date":"29-30.05.","artists":"Defibrylator vol. 11: corpselight / Olion / Suffer Anxiety Disorder / Feine Trinkers Bei Pinkels Daheim (Niemcy) / Data Corrupter / Prurit (Belgia) / Distorting a Woodpecker (USA) / The Eternal Returns / Chris (Czechy) / Burden / Silver Dove (UK) / DzuszanDead / Woods Matters (USA) / SAM / Martin Režný (Czechy)","venue":"Ośrodek Lido","city":"Przygodzice","link":""},
 
-  {"date":"30.05.","artists":"for example John / The Yacht Club / Ostatni Kontynent / Worms of Senses","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"30.05.","artists":"for example John / The Yacht Club / Ostatni Kontynent / Worms of Senses","venue":"Nietota","city":"Wrocław","link":""},
 
-  {"date":"31.05.","artists":"Szymon „Pimpon” Gąsiorek – W Samo Południe #14","venue":"Jaśkowa Dolina 4/11","city":"Gdańsk","link":""},
+      {"date":"31.05.","artists":"Szymon „Pimpon” Gąsiorek – W Samo Południe #14","venue":"Jaśkowa Dolina 4/11","city":"Gdańsk","link":""}
+    ]
+  },
 
-  {"date":"02.06.","artists":"Big Brave / Cinder Well","venue":"Las","city":"Poznań","link":""},
-  {"date":"05.06.","artists":"Cinnamon Gum","venue":"Nietota","city":"Wrocław","link":""},
-  {"date":"06.06.","artists":"Wiśnia Bakajoko","venue":"Nietota","city":"Wrocław","link":""},
-  {"date":"06.06.","artists":"Steröid / Siyahkal / Grotto / DHK / Syfon","venue":"ADA Puławska","city":"Warszawa","link":""},
-  {"date":"07.06.","artists":"Bazgrołki","venue":"CKiS","city":"Tczew","link":""},
+  {
+    "group": "Czerwiec 2026",
+    "events": [
+      {"date":"02.06.","artists":"Big Brave / Cinder Well","venue":"Las","city":"Poznań","link":""},
+      {"date":"05.06.","artists":"Cinnamon Gum","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"06.06.","artists":"Wiśnia Bakajoko","venue":"Nietota","city":"Wrocław","link":""},
+      {"date":"06.06.","artists":"Steröid / Siyahkal / Grotto / DHK / Syfon","venue":"ADA Puławska","city":"Warszawa","link":""},
+      {"date":"07.06.","artists":"Bazgrołki","venue":"CKiS","city":"Tczew","link":""},
 
-  {"date":"12-14.06.","artists":"Fląder Festiwal","venue":"Brzeźno","city":"Gdańsk","link":""},
-  {"date":"20.06.","artists":"Johnny Trzy Palce","venue":"","city":"Jelcz-Starachowice","link":""},
-  {"date":"20-21.06.","artists":"Suburban Wave III: Już Nie Żyjesz / Koń / Hatestory / Nameless Creations / Dead Tahiti","venue":"Pogorzel Warszawska","city":"okolice Warszawy","link":""},
-  {"date":"26-28.06.","artists":"Festiwal „Nie jest źle”","venue":"","city":"Wołów","link":""},
+      {"date":"12-14.06.","artists":"Fląder Festiwal","venue":"Brzeźno","city":"Gdańsk","link":""},
+      {"date":"20.06.","artists":"Johnny Trzy Palce","venue":"","city":"Jelcz-Starachowice","link":""},
+      {"date":"20-21.06.","artists":"Suburban Wave III: Już Nie Żyjesz / Koń / Hatestory / Nameless Creations / Dead Tahiti","venue":"Pogorzel Warszawska","city":"okolice Warszawy","link":""},
+      {"date":"26-28.06.","artists":"Festiwal „Nie jest źle”","venue":"","city":"Wołów","link":""}
+    ]
+  },
 
-  {"date":"02-05.07.","artists":"Wschód Kultury: Inne Brzmienia","venue":"","city":"Lublin","link":""},
-  {"date":"02-05.07.","artists":"Noc na Bagnie 2026","venue":"","city":"Goniądz","link":""},
-  {"date":"10-12.07.","artists":"Red Smoke Festival: Elder / Slomosa / Poison Ruin / Siena Root / Entropia / Acid Mammoth / Travo / Samavayo / Red Scalp / Kombynat Robotron / Margarita Witch Club / Cv Vision / Arcane Allies / Madmess / Hollow Ship / Doom Gong / Hingus Fringus","venue":"","city":"Pleszew","link":""},
-  {"date":"16-19.07.","artists":"Spokój Festiwal","venue":"","city":"Dąbrowa k/Stężycy","link":""},
-  {"date":"17-18.07.","artists":"Róbmy Swoje: _ułła_/ Ozibut / little man, figurine / Semi Nomadic / 375 CEG / Wielki Las / [peru] / Power Trio / Złe Oko","venue":"","city":"Wysoka Strzyżowska","link":""},
+  {
+    "group": "Lipiec 2026",
+    "events": [
+      {"date":"02-05.07.","artists":"Wschód Kultury: Inne Brzmienia","venue":"","city":"Lublin","link":""},
+      {"date":"02-05.07.","artists":"Noc na Bagnie 2026","venue":"","city":"Goniądz","link":""},
+      {"date":"10-12.07.","artists":"Red Smoke Festival: Elder / Slomosa / Poison Ruin / Siena Root / Entropia / Acid Mammoth / Travo / Samavayo / Red Scalp / Kombynat Robotron / Margarita Witch Club / Cv Vision / Arcane Allies / Madmess / Hollow Ship / Doom Gong / Hingus Fringus","venue":"","city":"Pleszew","link":""},
+      {"date":"16-19.07.","artists":"Spokój Festiwal","venue":"","city":"Dąbrowa k/Stężycy","link":""},
+      {"date":"17-18.07.","artists":"Róbmy Swoje: _ułła_/ Ozibut / little man, figurine / Semi Nomadic / 375 CEG / Wielki Las / [peru] / Power Trio / Złe Oko","venue":"","city":"Wysoka Strzyżowska","link":""}
+    ]
+  },
 
-  {"date":"05.09.","artists":"PARA WINO","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-  {"date":"18.09.","artists":"Pleń / Tytus & The Left-Handers","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
-  {"date":"19.09.","artists":"tN collective","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""}
+  {
+    "group": "Wrzesień 2026",
+    "events": [
+      {"date":"05.09.","artists":"PARA WINO","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
+      {"date":"18.09.","artists":"Pleń / Tytus & The Left-Handers","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""},
+      {"date":"19.09.","artists":"tN collective","venue":"PraCoVnia Art-Club","city":"Warszawa","link":""}
+    ]
+  }
 ]
